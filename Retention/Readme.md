@@ -1,8 +1,8 @@
-#Retention query examples
+# Retention query example
 
 Though I have tracked retention and growth in the past, those databases were proprietary.
 
-These examples are based on [How Duolingo Reignited User Growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth). The data model is my own construct and it would need to be adapted and tested against a real database, I attempted to keep it consistent throughout the examples.
+This example is based on [How Duolingo Reignited User Growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth). The data model is my own construct and it would need to be adapted and tested against a real database, I attempted to keep it consistent throughout the examples.
 
 ### DAU
 - **New users (NURR):** first day of engagement ever in the app
