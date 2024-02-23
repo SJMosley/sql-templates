@@ -4,7 +4,7 @@ Though I have tracked retention and growth in the past, those databases were pro
 
 This example is based on [How Duolingo Reignited User Growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth). The data model is my own construct and it would need to be adapted and tested against a real database, I attempted to keep it consistent throughout the examples.
 
-You can generate the data by running the `generate_user_engagements.py` script in the folder. You can edit the file to say how many users you want to generate. Or you can use the events_data.csv file and import that into your test DB.
+You can generate the data by running the `generate_user_engagements.py` script in the folder. You can edit the file to say how many users you want to generate. Or you can use the events_data.csv file and import that into your test DB, though the users were generated on 2024-02-23 so the query may not work the way you expect.
 
 I personally use [DBngin](https://dbngin.com/) and [Tableplus](https://tableplus.com/) for DB management.
 
